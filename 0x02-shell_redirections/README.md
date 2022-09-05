@@ -1,1 +1,3 @@
 This is shell redirection commentary
+0. THIS SCRIPT PRINTS HELLO, WORLD
+1. THIS SCRIPT DISPLAYS A CONFUSE SMILEY
