@@ -14,3 +14,4 @@ THIS SCRIPT DELETED ALL THE REGULAR FILES WITH .JS EXTENSION PRESENT IN THE DIRE
 12. THIS SCRIPT DISPLAY 10 NEWEST FILE IN THE CURRENT DIRECTORY
 13. THIS SCRIPT Create a script that takes a list of words as input and prints only words that appear exactly once
 14. THIS SCRIPT Display lines containing ROOT
+15. this script Display the number of lines that contain the pattern
