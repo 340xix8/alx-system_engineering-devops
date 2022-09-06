@@ -22,3 +22,4 @@ THIS SCRIPT DELETED ALL THE REGULAR FILES WITH .JS EXTENSION PRESENT IN THE DIRE
 20. this script is for Create a script that removes all letters c and C from input.
 21. this script is for Write a script that reverse its input.
 22. this script is for Write a script that displays all users and their home directories, sorted by users
+23. this script is for Write a command that finds all empty files and directories in the current directory and all sub-directories
