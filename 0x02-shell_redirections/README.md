@@ -21,3 +21,4 @@ THIS SCRIPT DELETED ALL THE REGULAR FILES WITH .JS EXTENSION PRESENT IN THE DIRE
 19. this script is for Replace all characters A and c from input to Z and e respectively
 20. this script is for Create a script that removes all letters c and C from input.
 21. this script is for Write a script that reverse its input.
+22. this script is for Write a script that displays all users and their home directories, sorted by users
