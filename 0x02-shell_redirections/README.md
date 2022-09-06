@@ -18,3 +18,4 @@ THIS SCRIPT DELETED ALL THE REGULAR FILES WITH .JS EXTENSION PRESENT IN THE DIRE
 16. this script is for Display lines containing the pattern3
 17. thsi script is for Display all the lines in the file /etc/passwd that do not contain the pattern .bins
 18. this script is for Display all lines of the file /etc/ssh/sshd_config starting with a letter
+19. this script is for Replace all characters A and c from input to Z and e respectively
